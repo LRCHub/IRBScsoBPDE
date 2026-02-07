@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "心濾し",
+  "base_artist": "酔シグレ",
+  "createdAt": "2026-02-07T08:40:32.426619Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "心濾し",
+      "artist": "酔シグレ",
+      "has_synced": false,
+      "path": "select/pl_01_心濾し_酔シグレ.txt"
+    }
+  ]
+}
